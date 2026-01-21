@@ -1,28 +1,59 @@
 # Android Controlled Semi-Auto Floor Cleaner
 
-## Academic Project
-Degree: Diploma  
-Field: Electronics and Communication Engineering 
-Year: 2019
+## 🎓 Academic Project
 
-## Project Overview
-This project focuses on the design and implementation of an Android-controlled semi-automatic floor cleaning robot.
-The system enables wireless control using a mobile application and improves cleaning efficiency with minimal human effort.
+**Degree:** Diploma  
+**Field:** Electronics and Communication Engineering  
+**Year:** 2019  
 
-## Objectives
-- Design a mobile-controlled floor cleaning system
-- Implement wireless control using Android application
-- Reduce manual effort in floor cleaning
+---
 
-## Tools & Technologies
-- 8051 Microcontroller
-- Android Application
-- DC Motors & Motor Driver
-- Embedded C
+## 📌 Project Overview
 
-## Repository Structure
-- Report: Complete project documentation
-- Code: Embedded C
-- Results: Prototype images and output demonstrations
+This project involves the **design and implementation of an Android-controlled semi-automatic floor cleaning robot**.  
+The system enables **wireless control through an Android application**, allowing efficient floor cleaning with **minimal human effort**.
 
-## Guide
+The objective of the project is to automate basic cleaning operations using a microcontroller-based embedded system controlled remotely via a mobile device.
+
+---
+
+## 🎯 Objectives
+
+- Design and develop a mobile-controlled floor cleaning system  
+- Implement wireless control using an Android application  
+- Reduce manual effort in floor cleaning operations  
+- Improve cleaning efficiency using automated motion control  
+
+---
+
+## 🛠 Tools & Technologies
+
+- 8051 Microcontroller  
+- Android Application  
+- DC Motors and Motor Driver  
+- Embedded C Programming  
+
+---
+
+## 📂 Repository Structure
+
+- **Report:** Complete project documentation  
+- **Code:** Embedded C source files for microcontroller control  
+- **Results:** Prototype images and output demonstrations  
+
+---
+
+## 👩‍🏫 Project Guide
+
+**Ms. Gousia Begum**  
+Department of Electronics and Communication Engineering  
+
+---
+
+## 👤 Author
+
+**Arjun Ambekar**  
+Diploma in Electronics and Communication Engineering
+Hanagal Sri Kumareshwara Polytechnic, Ballari  
+
+---
