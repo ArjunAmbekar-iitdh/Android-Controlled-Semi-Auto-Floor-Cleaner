@@ -52,7 +52,7 @@ Department of Electronics and Communication Engineering
 
 ## 👤 Author
 
-**Arjun Ambekar**  
+**Mr. Arjun Ambekar**  
 Diploma in Electronics and Communication Engineering
 Hanagal Sri Kumareshwara Polytechnic, Ballari  
 
